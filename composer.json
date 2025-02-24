@@ -1,0 +1,15 @@
+{
+  "name": "franknotpunk/smg",
+  "description": "Генерация карты сайта в различных файловых форматах: xml, csv, js",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "SGM\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "php": "^8.0"
+  }
+}
